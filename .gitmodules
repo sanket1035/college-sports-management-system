@@ -1,0 +1,3 @@
+[submodule "databaseproject"]
+	path = databaseproject
+	url = https://github.com/yourusername/databaseproject.git
